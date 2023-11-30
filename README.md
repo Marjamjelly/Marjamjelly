@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Marjamjelly
+- 👀 I’m interested in unblocked games, and vast storage archives.
+- 🌱 I’m currently learning HTML, CSS, JS
+- 💞️ I’m looking to collaborate on making databases, and improving my CSS
+- 📫 You can reach me at storm.networks.info@gmail.com 
