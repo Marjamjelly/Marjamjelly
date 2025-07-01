@@ -1,6 +1,6 @@
 <!-- Profile Banner (replace with your own image or keep as is) -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Your%20Name%20Here&fontSize=40&fontAlignY=40&desc=Welcome%20to%20my%20GitHub%20profile!&descAlignY=60" alt="banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Marjamjelly&fontSize=40&fontAlignY=40&desc=Welcome%20to%20my%20GitHub%20profile!&descAlignY=60" alt="banner"/>
 </p>
 
 <!-- Profile Avatar (replace URL with your own) -->
@@ -8,12 +8,12 @@
   <img src="https://github.com/Marjamjelly.png" width="120" style="border-radius:50%" alt="Profile Avatar"/>
 </p>
 
-<h1 align="center">Hi, I'm <YOUR NAME>! 👋</h1>
+<h1 align="center">Hi, I'm Marjamjelly! 👋</h1>
 
 <p align="center">
   <b>🌟 Welcome to my GitHub profile! 🌟</b>
   <br />
-  <i>Insert a short, catchy tagline or personal motto here.</i>
+  <i>Where there's a whip, there's a way</i>
 </p>
 
 ---
@@ -22,12 +22,10 @@
 
 > <!-- Replace this block with your bio -->
 >
-> - 🎓 **Education:** [Your background or degree]
-> - 💼 **Profession:** [Your current job or focus]
-> - 🧠 **Interests:** [Your interests, e.g., AI, web dev, open source]
-> - 🥇 **Fun Fact:** [Something interesting about you]
->
-> _Feel free to expand!_
+> - 🎓 **Education:** Uh, I learned some html/css on w3schools. Thats about it.
+> - 💼 **Profession:** AAHH JOB! NO!
+> - 🧠 **Interests:** Databases, evading internet censorship, ugly ass websites
+> - 🥇 **Fun Fact:** I can't program for shit
 
 ---
 
