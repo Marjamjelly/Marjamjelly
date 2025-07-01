@@ -33,10 +33,9 @@
 
 <!-- Add or remove badges as needed! -->
 <p align="center">
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/-React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 Badge"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3 Badge"/>
   <!-- Add more badges for your favorite languages/tools -->
 </p>
 
@@ -55,9 +54,8 @@
 
 | Project | Description | Links |
 |---------|-------------|-------|
-| [**Project 1**](#) | _Short description and cool emoji_ | [Repo](#) [Demo](#) |
-| [**Project 2**](#) | _Short description and cool emoji_ | [Repo](#) [Demo](#) |
-| [**Project 3**](#) | _Short description and cool emoji_ | [Repo](#) [Demo](#) |
+| [**My Personal Site**](#) | Looks terrible, but has links to my other stuff that looks a bit better. _Under construction_ | [Repo](https://github.com/Marjamjelly/marjamjelly.github.io) [Demo](https://marjamjelly.github.io) |
+| [**Project 2**](#) | A plain text editor. _Under Construction_ | [Repo](https://github.com/Marjamjelly/text-editor) [Demo](https://marjamjelly.github.io/text-editor/) |
 
 <!-- Add more projects as needed above -->
 
@@ -66,10 +64,7 @@
 ## 📫 Connect With Me
 
 <p align="center">
-  <a href="mailto:your@email.com"><img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://twitter.com/your-twitter"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-  <!-- Add your other socials here -->
+  <a href="mailto:storm.netowrks.info@gmail.com"><img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
